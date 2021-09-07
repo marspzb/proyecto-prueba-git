@@ -9,4 +9,7 @@ public class Hash {
 		return super.toString();
 	}
 	
+
+	private int peppe;
+	
 }
