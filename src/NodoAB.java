@@ -10,4 +10,6 @@ private NodoAB izq;
              +  (izq!=null?izq.cant():0)
             +(der!=null?der.cant():0);
     }
+    
+    public int altura() {return -1;}
 }
