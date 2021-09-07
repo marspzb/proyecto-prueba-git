@@ -3,7 +3,12 @@ public class Lista {
 
 	private NodoLista inicio;
 	
-	public void agregarPpio() {
+	public void agregarPpio(int data) {
+		NodoLista antInicio=inicio;
+		inicio=new NodoLista();
+		inicio.sig=antInicio;
+		inicio.dato=data;
+		
 		
 	}
 	
