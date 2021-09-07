@@ -22,3 +22,12 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 /bin/
+.idea/vcs.xml
+.idea/.name
+.idea/aws.xml
+.idea/codeStyles/codeStyleConfig.xml
+.idea/codeStyles/Project.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/runConfigurations.xml
+*.iml
