@@ -2,7 +2,7 @@
 public class Grafo {
 
 	
-	public int cantVertices() {
+	public int cantidadDeVertices() {
 		return 0;
 	}
 }
