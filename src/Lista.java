@@ -11,6 +11,9 @@ public class Lista {
 		
 		
 	}
+	public void agregarFin() {
+		
+	}
 	
 	public int largo() {
 		NodoLista act=inicio;
