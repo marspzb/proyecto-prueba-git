@@ -8,6 +8,12 @@ public class Lista {
 	}
 	
 	public int largo() {
-		return 0;
+		NodoLista act=inicio;
+		int largo=0;
+		while(act!=null) {
+			largo++;
+			act=act.sig;
+		}
+		return largo;
 	}
 }
