@@ -18,4 +18,5 @@ private NodoAB izq;
     public NodoAB inverso(){
         return null;
     }
+    public int otroMetodo(){return 0;}
 }
