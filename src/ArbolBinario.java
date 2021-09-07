@@ -6,4 +6,8 @@ class ArbolBinario
     public void agregarDato(){
         raiz=new NodoAB();
     }
+    public int cantidad(){
+        if(raiz==null)return 0;
+        return raiz.cantidad();
+    }
 }
